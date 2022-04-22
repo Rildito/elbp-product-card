@@ -1,9 +1,12 @@
-# DO-Product-Card
+# ELBP-Product-Card
 
 Este es un paquete de pruebas de despliege en NPM
 
 
-## Enrique Luis
+### Enrique Luis
+
+## Ejemplo
+
 ```
 import {ProductCard,ProductImage,ProductTitle, ProductButtons } from 'elbp-product-card';
 ```
